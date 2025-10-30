@@ -7,7 +7,7 @@ I like building things that actually work — web apps, backend systems, and mac
 
 ---
 
-### Skills
+### ⚙️ Skills
 
 **Languages:** Python, Java, C#, JavaScript, SQL  
 **Frameworks:** .NET, Spring Boot, PyTorch  
@@ -15,9 +15,9 @@ I like building things that actually work — web apps, backend systems, and mac
 
 ---
 
-### Stats  
+### 📊 Stats  
 
-<p align="center">
+<p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NealKSharma&layout=compact&theme=tokyonight&hide_border=true" height="165px"/>
 </p>
 
