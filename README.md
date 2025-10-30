@@ -1,35 +1,33 @@
 # Hey, I'm Neal Kaushik Sharma  
 
-🎓 Computer Science @ Iowa State University  
-💡 Honors Student • AI & Software Engineering  
+🎓 Computer Science Honors @ Iowa State University  
+🎓 Minor in Artificial Intelligence  
 
 I like building things that actually work — web apps, backend systems, and machine learning projects. I’m especially interested in how software and AI come together to solve real problems. I enjoy working in teams, learning from people around me, and figuring things out by building.
 
 ---
 
-### ⚙️ Tech  
 **Languages:** Python, Java, C#, JavaScript, SQL  
 **Frameworks:** .NET, Spring Boot, PyTorch  
 **Tools:** Azure, Docker, Git, Linux  
 
 ---
 
-### 💼 Experience  
-- **Software Engineer Intern @ Tata Consultancy Services (Summer 2025)**  
-  Built full-stack enterprise apps using ASP.NET Core and Azure.  
-  Worked in Agile teams, implemented secure authentication, and helped deploy production builds.
+### 📊 GitHub Stats  
 
-- **Research Assistant @ ISU Computer Science**  
-  Working on machine unlearning and predictive uncertainty under Prof. Wallapak Tavanapong and Wei Qian.  
-  Exploring how adversarial unlearning affects AI model reliability and safety.
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=NealKSharma&show_icons=true&theme=tokyonight&hide_border=true" height="165px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NealKSharma&layout=compact&theme=tokyonight&hide_border=true" height="165px"/>
+</p>
 
-- **Research Assistant @ ISU Physics & Astronomy**  
-  Processed NASA TESS data to identify outbursting white dwarf stars using Python and NumPy.
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=NealKSharma&theme=tokyonight&hide_border=true" height="165px"/>
+</p>
 
 ---
 
 ### 🌐 Connect  
 📧 [nea1@iastate.edu](mailto:nea1@iastate.edu)  
 🔗 [linkedin.com/in/nealks](https://linkedin.com/in/nealks)  
-🌎 [Portfolio]((https://nealks.netlify.app))  
+🌎 [nealks.netlify.app](https://nealks.netlify.app)  
 🐙 [github.com/NealKSharma](https://github.com/NealKSharma)
