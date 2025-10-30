@@ -7,26 +7,24 @@ I like building things that actually work — web apps, backend systems, and mac
 
 ---
 
+### Skills
+
 **Languages:** Python, Java, C#, JavaScript, SQL  
 **Frameworks:** .NET, Spring Boot, PyTorch  
 **Tools:** Azure, Docker, Git, Linux  
 
 ---
 
-### 📊 GitHub Stats  
+### Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NealKSharma&show_icons=true&theme=tokyonight&hide_border=true" height="165px"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NealKSharma&layout=compact&theme=tokyonight&hide_border=true" height="165px"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=NealKSharma&theme=tokyonight&hide_border=true" height="165px"/>
 </p>
 
 ---
 
 ### 🌐 Connect  
+
 📧 [nea1@iastate.edu](mailto:nea1@iastate.edu)  
 🔗 [linkedin.com/in/nealks](https://linkedin.com/in/nealks)  
 🌎 [nealks.netlify.app](https://nealks.netlify.app)  
