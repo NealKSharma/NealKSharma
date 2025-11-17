@@ -5,14 +5,6 @@
 
 ---
 
-### ⚙️ Skills
-
-**Languages:** Python, Java, C#, JavaScript, SQL  
-**Frameworks:** .NET, Spring Boot, PyTorch  
-**Tools:** Azure, Docker, Git, Linux  
-
----
-
 ### 📊 Stats  
 
 <p>
