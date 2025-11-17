@@ -3,8 +3,6 @@
 🎓 Computer Science Honors @ Iowa State University  
 🎓 Minor in Artificial Intelligence  
 
-I like building things that actually work — web apps, backend systems, and machine learning projects. I’m especially interested in how software and AI come together to solve real problems. I enjoy working in teams, learning from people around me, and figuring things out by building.
-
 ---
 
 ### ⚙️ Skills
