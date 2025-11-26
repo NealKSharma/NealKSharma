@@ -1,8 +1,8 @@
 # Hey, I'm Neal Kaushik Sharma  
 
-Computer Science Honors @ Iowa State University
-Minor in Artificial Intelligence
-3.8 GPA
+Computer Science Honors @ Iowa State University  
+Minor in Artificial Intelligence  
+3.8 GPA  
 
 ---
 
